@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\ProjectileDragging.cs" />
      <Compile Include="Assets\Scripts\Resetter.cs" />
      <Compile Include="Assets\Scripts\projectileFollow.cs" />
+     <Compile Include="Assets\TargetDamage.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
